@@ -12,3 +12,7 @@ To complete this tutorial, you'll need:
 
   - Access to the [OpenAI](https://openai.com/api) API
   - An account on [replit.com](https://replit.com)
+
+## Questions and Comments
+
+For questions and comments, please use the [Discussion Page](https://github.com/dabblelab/calling-the-openai-api-node/discussions/1). 
