@@ -13,8 +13,7 @@ const completionParmas = {
 
 client.post('https://api.openai.com/v1/engines/davinci/completions', completionParmas)
   .then(result => {
-    console.log(completionParmas.prompt + result.data.choices[0].text);
-    // console.log(result.data);
+    console.log(result.data);
   }).catch(err => {
     console.log(err);
   });
