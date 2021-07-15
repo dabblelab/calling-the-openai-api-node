@@ -6,12 +6,12 @@ const client = axios.create({
   }
 });
 
-const completionParmas = {
+const params = {
   "prompt": "Once upon a time",
   "max_tokens": 10
 }
 
-client.post('https://api.openai.com/v1/engines/davinci/completions', completionParmas)
+client.post('https://api.openai.com/v1/engines/davinci/completions', params)
   .then(result => {
     console.log(result.data);
   }).catch(err => {
