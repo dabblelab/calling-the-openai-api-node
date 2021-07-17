@@ -2,9 +2,9 @@
 
 # Calling the OpenAI API using NodeJS
 
-![Cover Image](./assets/calling-the-openai-api-node.png)
+[![YouTube Video](https://img.youtube.com/vi/atezG_OJGDg/maxresdefault.jpg)](https://www.youtube.com/watch?v=atezG_OJGDg)
 
-This is the repository for the tutorial [Calling the OpenAI API Using Node/JavaScript](#). Details about the code and everything you need to know to git it working is included in the [free video tutorial](#).
+This is the repository for the tutorial [Calling the OpenAI API Using Node/JavaScript](https://www.youtube.com/watch?v=atezG_OJGDg). Details about the code and everything you need to know to git it working is included in the [free video tutorial](https://www.youtube.com/watch?v=atezG_OJGDg).
 
 ## Prerequisites
 
